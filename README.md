@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Naradsingh
-- 👀 I’m interested in Azure Cloud
-- 🌱 I’m currently working as Azure DevOps
-- 💞️ I’m looking to collaborate on Azure and Terraform
+- 👋 You are seeing profile of Senior/Azure/DevOps/Engineer/Naradsingh 
+- 👀 I’m using this repos only for my test project
+- 🌱 I’m currently working on K8S.
 - 📫 anyone can reach me @narad.singh@gmail.com
 
 <!---
