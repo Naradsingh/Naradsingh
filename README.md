@@ -1,7 +1,7 @@
 - 👋 You are seeing profile of Senior/Azure/DevOps/Engineer/Naradsingh 
 - 👀 I’m using this repos only for my test project
 - 🌱 I’m currently working on K8S.
-- 📫 anyone can reach me @narad.singh@gmail.com
+- 📫 Anyone can reach me @narad.singh@gmail.com
 
 <!---
 Naradsingh/Naradsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
